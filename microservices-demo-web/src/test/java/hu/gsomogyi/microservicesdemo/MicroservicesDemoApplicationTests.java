@@ -1,4 +1,4 @@
-package microservicesdemo;
+package hu.gsomogyi.microservicesdemo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
